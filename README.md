@@ -9,7 +9,6 @@ my focus extends beyond, encompassing a continuous journey of learning and skill
 - 🚀 Programming is not just a job; it's my passion
 
 ## Skills
-### Programming languages
 - **Strong:** Python
 - **Familiar:** PHP, HTML, CSS
 - **Basics:** JavaScript, C#, Kotlin
