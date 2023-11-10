@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! 👋 I'm Bartosz
 
-<!--
-**bvrtek-dev-py/bvrtek-dev-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a diverse range of experiences, especially in crafting web applications. While I've extensively used Django in my projects, 
+my focus extends beyond, encompassing a continuous journey of learning and skill expansion.
 
-Here are some ideas to get you started:
+- 💻 Currently learning Spring Boot, Kotlin
+- 📚 Planning to delve into Symfony and React.js
+- 🚀 Programming is not just a job; it's my passion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Strong:** Python
+- **Familiar:** PHP, HTML, CSS
+- **Basics:** JavaScript, C#, Kotlin
+- **Frameworks:** Django, FastAPI
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **IDEs:** PHPStorm, PyCharm, Visual Studio Code
+- **Version Control:** Git
+- **Tools:** DBeaver, Postman, ChatGPT, Docker
+
+## Let's Connect!
+- 📫 Reach me: bartosz.michalski777@gmail.com
+- 👋 Let's code and learn together!
