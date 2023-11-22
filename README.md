@@ -19,5 +19,6 @@ my focus extends beyond, encompassing a continuous journey of learning and skill
 - **Tools:** DBeaver, Postman, ChatGPT, Docker
 
 ## Let's Connect!
-- 📫 Reach me: bartosz.michalski777@gmail.com
+- 📫 Gmail: bartosz.michalski777@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/bartosz-michalski-955606292
 - 👋 Let's code and learn together!
