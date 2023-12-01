@@ -14,7 +14,7 @@ my focus extends beyond, encompassing a continuous journey of learning and skill
 - **Basics:** JavaScript, C#, Kotlin
 - **Frameworks:** Django, FastAPI
 - **Databases:** PostgreSQL, MySQL, SQLite
-- **IDEs:** PHPStorm, PyCharm, Visual Studio Code
+- **IDEs:** PHPStorm, PyCharm, IntelliJ IDEA, Visual Studio Code
 - **Version Control:** Git
 - **Tools:** DBeaver, Postman, ChatGPT, Docker
 
