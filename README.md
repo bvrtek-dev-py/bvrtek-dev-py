@@ -4,14 +4,14 @@
 I'm a passionate developer with a diverse range of experiences, especially in crafting web applications. While I've extensively used Django in my projects, 
 my focus extends beyond, encompassing a continuous journey of learning and skill expansion.
 
-- 💻 Currently learning React.js and DRF
+- 💻 Currently learning Flutter
 - 📚 Planning to delve into Symfony
 - 🚀 Programming is not just a job; it's my passion
 
 ## Skills
-- **Strong:** Python
-- **Familiar:** PHP, HTML, CSS
-- **Basics:** JavaScript/TypeScript, C#, Kotlin
+- **Strong:** Python, PHP
+- **Familiar:** JavaScript/TypeScript, HTML, CSS
+- **Basics:** C#, Kotlin
 - **Frameworks:** Django, FastAPI
 - **Databases:** PostgreSQL, MySQL, SQLite
 - **IDEs:** PHPStorm, PyCharm, IntelliJ IDEA, Visual Studio Code
