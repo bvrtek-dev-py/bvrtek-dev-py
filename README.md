@@ -1,24 +1,29 @@
 # Hi there! 👋 I'm Bartosz
 
 ## About Me
-I'm a passionate developer with a diverse range of experiences, especially in crafting web applications. While I've extensively used Django in my projects, 
-my focus extends beyond, encompassing a continuous journey of learning and skill expansion.
+Fullstack developer (backend-focused) and CS student. I'm passionate about building well-structured software — clean architecture, DDD, and hexagonal architecture are what currently drive my interest the most.
 
-- 💻 Currently learning Flutter
-- 📚 Planning to delve into Symfony
+- 🏗️ Focused on software architecture (DDD, Clean, Hexagonal)
+- ☕ Currently deepening my Java & Spring knowledge
 - 🚀 Programming is not just a job; it's my passion
 
 ## Skills
-- **Strong:** Python, PHP
-- **Familiar:** JavaScript/TypeScript, HTML, CSS
-- **Basics:** C#, Kotlin
-- **Frameworks:** Django, FastAPI
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **IDEs:** PHPStorm, PyCharm, IntelliJ IDEA, Visual Studio Code
-- **Version Control:** Git
-- **Tools:** DBeaver, Postman, ChatGPT, Docker
+
+**Languages**  
+Strong: PHP, Python  
+Familiar: Java, JavaScript / TypeScript, Dart 
+Basics: C#, Kotlin, HTML, CSS  
+
+**Frameworks & Libraries**  
+Strong: Laravel, FastAPI, Django
+Familiar: Spring, Symfony
+Basics: React, Flutter  
+
+**Architecture:** DDD, Clean Architecture, Hexagonal Architecture, Layered Architecture
+**Databases:** PostgreSQL, MySQL, SQLite  
+**Tools:** Docker, Git, DBeaver, Postman, GitHub Copilot, ChatGPT  
+**IDEs:** PHPStorm, IntelliJ IDEA, PyCharm, VS Code, Cursor
 
 ## Let's Connect!
-- 📫 Gmail: bartosz.michalski777@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/bartosz-michalski-955606292
-- 👋 Let's code and learn together!
+- 📫 bartosz.michalski777@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bartosz-michalski-955606292)
