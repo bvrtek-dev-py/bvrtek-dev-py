@@ -10,16 +10,16 @@ Fullstack developer (backend-focused) and CS student. I'm passionate about build
 ## Skills
 
 **Languages**  
-Strong: PHP, Python  
-Familiar: Java, JavaScript / TypeScript, Dart 
-Basics: C#, Kotlin, HTML, CSS  
+- **Strong:** PHP, Python  
+- **Familiar:** Java, JavaScript / TypeScript, Dart 
+- **Basics:** C#, Kotlin, HTML, CSS  
 
 **Frameworks & Libraries**  
-Strong: Laravel, FastAPI, Django
-Familiar: Spring, Symfony
-Basics: React, Flutter  
+- **Strong:** Laravel, FastAPI, Django
+- **Familiar:** Spring, Symfony
+- **Basics:** React, Flutter  
 
-**Architecture:** DDD, Clean Architecture, Hexagonal Architecture, Layered Architecture
+**Architecture:** DDD, Clean Architecture, Hexagonal Architecture, Layered Architecture  
 **Databases:** PostgreSQL, MySQL, SQLite  
 **Tools:** Docker, Git, DBeaver, Postman, GitHub Copilot, ChatGPT  
 **IDEs:** PHPStorm, IntelliJ IDEA, PyCharm, VS Code, Cursor
